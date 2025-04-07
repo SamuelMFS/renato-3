@@ -23,7 +23,7 @@ git clone https://github.com/seu-usuario/cafeteria-app.git
 ### 2. Acesse a pasta do projeto:
 
 ```bash
-cd cafeteria-app
+cd renato-3
 ```
 
 ### 3. Instale as dependências do projeto:
