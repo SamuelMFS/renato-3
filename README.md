@@ -80,22 +80,3 @@ Este projeto utiliza as seguintes dependências:
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
-
-### **Explicação do que foi incluído:**
-
-- **Instalação**: A instrução de instalação de dependências foi detalhada com `npm install`.
-- **Execução no Web**: Passos para rodar o projeto no navegador utilizando `npm run web`.
-- **Execução no Dispositivo Móvel**: A instrução para rodar no dispositivo móvel utilizando o **Expo Go**.
-- **Funcionalidades**: Resumo das principais funcionalidades do aplicativo (login, pagamento, status do pedido, etc).
-- **Dependências**: Lista das principais dependências que o projeto usa.
-- **Licença**: A licença do projeto, caso tenha uma, pode ser inserida. Se não tiver, você pode deixá-la como MIT (ou outra licença).
-
----
-
-### **Passos adicionais**:
-
-- **Substitua o link do repositório** no comando de clonagem (`git clone https://github.com/seu-usuario/cafeteria-app.git`) pelo seu link real.
-- **Licença**: Se você for usar uma licença diferente de MIT, altere a seção de **Licença** ou remova a parte.
-
-Esse arquivo serve para fornecer as instruções básicas para quem for rodar o seu projeto, seja na versão web ou em dispositivos móveis.
