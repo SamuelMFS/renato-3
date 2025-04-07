@@ -1,6 +1,3 @@
-Claro, aqui está um modelo de **`README.md`** para o seu projeto no **GitHub**. Esse arquivo explica como rodar o projeto, incluindo os passos de instalação e execução.
-
-```md
 # Cafeteria App
 
 Este é um projeto de aplicativo de cafeteria que permite aos usuários fazer pedidos, pagar por diferentes métodos e acompanhar o status de seus pedidos.
